@@ -24,9 +24,11 @@ When we catch AI misbehavior, what's the best way to use that information to pre
 
 ### 3. Infrastructure Sovereignty & Digital Vassalage
 
-**Research question:** Can nations achieve "Sovereign AI" without owning the physical or cloud infrastructure?
+**Research question:** How do nations without economic leverage negotiate fair terms for AI infrastructure in an oligopolistic market?
 
-I'm examining the power dynamics between nation-states and the cloud provider triopoly (AWS/Microsoft/Google), comparing the UK's "Tiered Sovereignty" model with the Philippines' "Client-State" model. This research explores infrastructure as territory, cloud rent-seeking, and the difference between strategic adaptation and pure dependency.
+Middle-power nations like the Philippines get worse deals for compute and AI services compared to how the UK negotiates - the global AI infrastructure market replicates existing power hierarchies. I'm systematically analyzing the **terms** of AI infrastructure dependency to identify strategic options for uncompetitive economies. This connects to AI safety: global AI safety requires infrastructure equity. Nations without good infrastructure terms can't build domestic AI safety capacity.
+
+**Key angle:** The Philippines' 1.3M-person BPO industry faces an AI displacement crisis while simultaneously lacking infrastructure leverage to shape AI adoption terms - creating a dangerous dependency trap.
 
 ## Current Phase
 
