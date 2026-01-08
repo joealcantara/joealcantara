@@ -1,10 +1,10 @@
 # Joe Alcantara (Jomar Alcantara)
 
-**PhD Researcher in AI Safety | Teaching Fellow at University of Warwick**
+**AI Safety Researcher | Teaching Fellow at University of Warwick**
 
 ## About
 
-I'm pursuing a PhD by Publication in AI Safety, investigating safer approaches to AI development through interpretable causal world models and few-shot catastrophe prevention. I also teach Computer Science foundations at the University of Warwick.
+I'm an AI Safety Researcher investigating safer approaches to AI development through interpretable causal world models and few-shot catastrophe prevention. My research is building toward a PhD by Publication. I also teach Computer Science foundations at the University of Warwick.
 
 ## Research Interests
 
@@ -14,7 +14,7 @@ I'm pursuing a PhD by Publication in AI Safety, investigating safer approaches t
 
 I'm exploring whether removing agency (goal-seeking behavior) while retaining learning capability can lead to fundamentally safer AI systems. My approach involves implementing Scientist AI at scale to demonstrate that interpretable causal world models are both practical and safer than black-box optimization.
 
-**Current work:** PhD by Publication - a 4-paper arc covering implementation, scalability, safety properties, and application of Scientist AI as an alternative to traditional RL agents.
+**Current work:** A 4-paper research arc covering implementation, scalability, safety properties, and application of Scientist AI as an alternative to traditional RL agents.
 
 ### 2. Few-Shot Catastrophe Prevention
 
@@ -30,7 +30,7 @@ I'm examining the power dynamics between nation-states and the cloud provider tr
 
 ## Current Phase
 
-**PhD Month 0:** Foundations and Scientist AI implementation
+**Research:** Foundations and Scientist AI implementation (Paper 1)
 **Teaching:** Computer Science foundations at University of Warwick
 
 ## Contact
