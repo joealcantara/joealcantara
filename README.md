@@ -37,6 +37,7 @@ I'm examining the power dynamics between nation-states and the cloud provider tr
 
 - Email: jomar.alcantara@gmail.com
 - Website: [joealcantara.com](https://joealcantara.com)
+- Twitter/X: [@joealcantara_](https://x.com/joealcantara_)
 - Location: UK
 
 ---
