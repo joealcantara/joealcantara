@@ -4,7 +4,7 @@
 
 ## About
 
-I'm an AI Safety Researcher investigating safer approaches to AI development through interpretable causal world models and few-shot catastrophe prevention. My research is building toward a PhD by Publication. I also teach Computer Science foundations at the University of Warwick.
+I'm an AI Safety Researcher investigating safer approaches to AI development through interpretable causal world models and few-shot catastrophe prevention. I also teach Computer Science foundations at the University of Warwick.
 
 ## Research Interests
 
